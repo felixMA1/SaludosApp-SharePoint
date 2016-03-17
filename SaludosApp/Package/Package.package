@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="11f8d09f-cbc6-4118-a2e9-e32ad99fa03f" 
+        solutionId="11f8d09f-cbc6-4118-a2e9-e32ad99fa03f" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SaludosApp"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="8cadae94-13e2-43ac-b4e3-1afb27a11864" />
+  </features>
+</package>
